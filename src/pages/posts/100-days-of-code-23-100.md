@@ -1,6 +1,7 @@
 ---
 title: '100 Days of Code - [23/100]'
 date: 2019-09-05T08:59:46.673Z
+thumb_img_path: /images/screen-recording-2019-09-05-at-02.03-am.gif
 template: post
 ---
 It's time to use this blog. I've been logging my #100DaysOfCode on Twitter. You can see my previous days [here on Twitter](https://twitter.com/search?q=%23100DaysOfCode%20%40dev_nikema%20&src=typed_query&f=live)
