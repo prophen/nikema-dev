@@ -4,10 +4,8 @@ date: 2019-09-09T14:27:39.923Z
 thumb_img_path: /images/screen-recording-2019-09-09-at-07.25-am.gif
 template: project
 ---
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I posted this video yesterday before my humble front-end existed. It’s here: <a href="https://t.co/jVSbZCsNNm">https://t.co/jVSbZCsNNm</a>. <a href="https://twitter.com/jeffiel?ref_src=twsrc%5Etfw">@jeffiel</a> and Twilio retweeted me 😊. That made it onto the list. <br><br>Side note: <a href="https://twitter.com/jeffiel?ref_src=twsrc%5Etfw">@jeffiel</a> is the only &quot;J Law&quot; I acknowledge in my head. <a href="https://t.co/tX0rymR1Hq">https://t.co/tX0rymR1Hq</a></p>&mdash; Nikema (she/her) (@dev_nikema) <a href="https://twitter.com/dev_nikema/status/1167828237906366464?ref_src=twsrc%5Etfw">August 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/twilio?ref_src=twsrc%5Etfw">@twilio</a>, I made an app using your messaging API to record my small wins and stay encouraged 🙌🏾 <a href="https://t.co/90qk9RYah3">pic.twitter.com/90qk9RYah3</a></p>&mdash; Nikema (she/her) (@dev_nikema) <a href="https://twitter.com/dev_nikema/status/1167512748571279360?ref_src=twsrc%5Etfw">August 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://cl.ly/4b268439b8f1" target="_blank"><img src="https://d2ddoduugvun08.cloudfront.net/items/3d3E0B1d183L2a3R1f1T/Screen%20Recording%202019-09-09%20at%2007.25%20AM.gif" style="display: block;height: auto;width: 100%;"/></a>
+https://github.com/prophen/small-wins
+https://github.com/prophen/small-wins-list
 
 I learned so much building this app. I knew I wanted to apply to Twilio's [Hatch Apprenticeship](https://www.twilio.com/company/diversity/hatch) and I knew exactly what I wanted my app to be able to do.
 
@@ -19,7 +17,5 @@ The backend part was what was newest to me and where most of my time went. I sta
 
 This version one of the app will remain as is. I may go ahead a limit the number of wins displayed or add pagination but otherwise this version is considered done. The v2 will likely be written in React and be multiplayer mode with user accounts and different types of posts.
 
-https://github.com/prophen/small-wins
-https://github.com/prophen/small-wins-list
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I posted this video yesterday before my humble front-end existed. It’s here: <a href="https://t.co/jVSbZCsNNm">https://t.co/jVSbZCsNNm</a>. <a href="https://twitter.com/jeffiel?ref_src=twsrc%5Etfw">@jeffiel</a> and Twilio retweeted me 😊. That made it onto the list. <br><br>Side note: <a href="https://twitter.com/jeffiel?ref_src=twsrc%5Etfw">@jeffiel</a> is the only &quot;J Law&quot; I acknowledge in my head. <a href="https://t.co/tX0rymR1Hq">https://t.co/tX0rymR1Hq</a></p>&mdash; Nikema (she/her) (@dev_nikema) <a href="https://twitter.com/dev_nikema/status/1167828237906366464?ref_src=twsrc%5Etfw">August 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Screenshot of Small Wins landing page](/images/screencapture-small-wins-nikema-now-sh-2019-09-09-07_22_55.png)
