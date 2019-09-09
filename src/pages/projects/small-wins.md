@@ -5,6 +5,7 @@ thumb_img_path: /images/screen-recording-2019-09-09-at-07.25-am.gif
 template: project
 ---
 https://github.com/prophen/small-wins
+
 https://github.com/prophen/small-wins-list
 
 I learned so much building this app. I knew I wanted to apply to Twilio's [Hatch Apprenticeship](https://www.twilio.com/company/diversity/hatch) and I knew exactly what I wanted my app to be able to do.
