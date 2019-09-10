@@ -9,7 +9,7 @@ sections:
 
       <p>
 
-        Follow <a class="h-card" rel="me" href="https://nikema.dev">Nikema</a> <a href="https://pronoun.is/she" target="_blank">she/her</a> on <a href='https://twitter.com/dev_nikema' target="_blank" rel='me'>Twitter (@dev_nikema)</a>, <a href='https://github.com/prophen' target="_blank" rel='me'>GitHub</a>, or send her an <a class="u-email" href='mailto:nikema.prophet@popschools.com' rel='me'>email</a>
+        Follow <a class="h-card" rel="me" href="https://nikema.dev">Nikema</a> <a href="https://pronoun.is/she" target="_blank">(she/her)</a> on <a href='https://twitter.com/dev_nikema' target="_blank" rel='me'>Twitter (@dev_nikema)</a>, <a href='https://github.com/prophen' target="_blank" rel='me'>GitHub</a>, or send her an <a class="u-email" href='mailto:nikema.prophet@popschools.com' rel='me'>email</a>
 
       </p>
 
