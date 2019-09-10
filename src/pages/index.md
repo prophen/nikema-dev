@@ -7,6 +7,13 @@ sections:
       developer.
 
 
+      <p>
+
+        Follow <a class="h-card" rel="me" href="https://nikema.dev">Nikema</a> on <a href='https://twitter.com/dev_nikema' rel='me'>Twitter (@dev_nikema)</a>, <a href='https://github.com/prophen' rel='me'>GitHub</a>, or send her an <a class="u-email" href='mailto:nikema.prophet@popschools.com' rel='me'>email</a>
+
+      </p>
+
+
       <style>.bmc-button img{width: 27px !important;margin-bottom: 1px
       !important;box-shadow: none !important;border: none
       !important;vertical-align: middle !important;}.bmc-button{line-height:
