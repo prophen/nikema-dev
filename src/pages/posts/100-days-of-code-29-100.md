@@ -23,6 +23,6 @@ I'm learning Redux and it's *new* new. Learning *new* new things always feels wo
 
 I keep running into little hiccups and TBH I really enjoy having these errors and fixing them. The latest one was a typo that was causing the page to redirect nonstop. That's why I didn't make my GIF with my last log.
 
-https:github.com/prophen/social-ape-client
-<a href="https:github.com/prophen/social-ape-client" target="_blank"><img src="https://d2ddoduugvun08.cloudfront.net/items/1F320J0T3d3l0i3T313o/Screen%20Recording%202019-09-11%20at%2001.12%20AM.gif" alt="login flow with console open" style="display: block;height: auto;width: 100%;"/></a>
+https://github.com/prophen/social-ape-client
+<a href="https://github.com/prophen/social-ape-client" target="_blank"><img src="https://d2ddoduugvun08.cloudfront.net/items/1F320J0T3d3l0i3T313o/Screen%20Recording%202019-09-11%20at%2001.12%20AM.gif" alt="login flow with console open" style="display: block;height: auto;width: 100%;"/></a>
  
