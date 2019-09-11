@@ -1,6 +1,12 @@
 ---
 title: '100 Days of Code - [29/100]'
 date: 2019-09-11T08:21:34.617Z
+excerpt: >-
+  Back at it with the Social Ape app. I spent so much of today at the computer
+  not coding. I'm taking the leap and actually making an attempt to get my first
+  tech job. I think I had just gotten used to a level of vulnerability and
+  exposure as a founder. I don't know why looking for a job feels different, but
+  it does.
 template: post
 ---
 Back at it with the Social Ape app. I spent so much of today at the computer not coding. I'm taking the leap and actually making an attempt to get my first tech job. I think I had just gotten used to a level of vulnerability and exposure as a founder. I don't know why looking for a job feels different, but it does.
