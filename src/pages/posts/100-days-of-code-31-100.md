@@ -2,6 +2,12 @@
 title: '100 Days of Code - [31/100]'
 date: 2019-09-14T07:09:51.396Z
 thumb_img_path: /images/screen-recording-2019-09-14-at-12.08-am.gif
+excerpt: >-
+  I'm in the final third of this 12-hour course. I'm learning a lot. I went
+  through a few sections today. Here are the latest features I added today:*
+  Upload a profile picture* Update profile info* A button component with
+  tooltips (DRY) * Nav buttons that show after the user is authenticated
+  https://github.com/prophen/social-ape-client
 template: post
 ---
 I'm in the final third of this 12-hour course. I'm learning a lot. I went through a few sections today. Here are the latest features I added today:
