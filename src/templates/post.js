@@ -11,12 +11,23 @@ export default class Post extends React.Component {
       <Layout {...this.props}>
         <div class="outer">
           <div class="inner">
-            <article class="post post-full">
+            <article class="post post-full h-entry">
               <header class="post-header inner-small">
-                <h1 class="post-title line-top">
+                <h1 class="post-title line-top p-name">
                   {_.get(this.props, "pageContext.frontmatter.title")}
                 </h1>
                 <div class="post-meta">
+                  <time
+                    style={{ display: "none" }}
+                    className="dt-published"
+                    itemprop="datepublished"
+                    datetime={publishedAt}
+                  >
+                    <a class="u-url" href={`'${window.location.href}'`}>
+                      {new Date(publishedAt).toISOString().replace("Z", "") +
+                        "+01:00"}
+                    </a>
+                  </time>
                   <time
                     class="published"
                     datetime={moment(
@@ -52,7 +63,7 @@ export default class Post extends React.Component {
                   />
                 </div>
               )}
-              <div class="post-content inner-small">
+              <div class="post-content inner-small e-content">
                 {htmlToReact(_.get(this.props, "pageContext.html"))}
               </div>
             </article>
