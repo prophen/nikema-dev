@@ -23,6 +23,8 @@ Now, I'm doing a course that's a completely different pace. It's on Frontend Mas
 
 https://frontendmasters.com/courses/complete-react-v5/
 
+My github repo: https://github.com/prophen/complete-intro-to-react-v5
+
 Early morning about this time yesterday, I also got my first lesson on GraphQL on https://egghead.io. I knew nothing about it and was intimidated. But once I saw what it was, I was so excited to play with it. It's a query language that's written in JSON and returns JSON. Very cool. I learned SQL way back in the day and the NoSQL languages are just so cool to me. I like modern web development. It's a whole different world from what I learned back in 2007.
 
  
