@@ -21,11 +21,14 @@ export default class Post extends React.Component {
                     style={{ display: "none" }}
                     className="dt-published"
                     itemprop="datepublished"
-                    datetime={publishedAt}
+                    datetime={_.get(this.props, "pageContext.frontmatter.date")}
                   >
                     <a class="u-url" href={`'${window.location.href}'`}>
-                      {new Date(publishedAt).toISOString().replace("Z", "") +
-                        "+01:00"}
+                      {new Date(
+                        _.get(this.props, "pageContext.frontmatter.date")
+                      )
+                        .toISOString()
+                        .replace("Z", "") + "+01:00"}
                     </a>
                   </time>
                   <time
