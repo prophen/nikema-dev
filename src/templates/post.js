@@ -23,7 +23,7 @@ export default class Post extends React.Component {
                     itemprop="datepublished"
                     datetime={_.get(this.props, "pageContext.frontmatter.date")}
                   >
-                    <a class="u-url" href={`'${window.location.href}'`}>
+                    <a class="u-url" href="https://nikema.dev">
                       {new Date(
                         _.get(this.props, "pageContext.frontmatter.date")
                       )
